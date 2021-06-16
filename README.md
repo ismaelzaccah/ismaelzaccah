@@ -1,0 +1,3 @@
+- 👋 Olá, me chamo Ismael e estou cursando ADS!
+- 🌱 Estou iniciando os estudos em HTML,CSS e JS...
+- 📫 Caso queira contato pode me mandar um e-mail: ismael.zaccah@gmail.com
